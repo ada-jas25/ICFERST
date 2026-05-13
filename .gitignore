@@ -1,0 +1,9 @@
+# ICFERST simulation outputs and configs (tracked via Git LFS, don't commit)
+ICFERST/
+
+# Jupyter notebook cache and outputs
+.ipynb_checkpoints/
+__pycache__/
+
+# Generated figures (optional; uncomment if needed)
+# figures/
